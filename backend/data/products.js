@@ -4,9 +4,9 @@ const products = [
     name: "Airpods Wireless Bluetooth Headphones",
     image: "/images/airpods.jpg",
     description: `Bluestooth technology lets you connect it with compatible devies
-    wirelessly High-quality AAC audio offers immersive listening
-    experience Built-in microphone allows you to take calls while
-    working`,
+      wirelessly High-quality AAC audio offers immersive listening
+      experience Built-in microphone allows you to take calls while
+      working`,
     brand: "Apple",
     category: "Electronics",
     price: 89.99,
@@ -20,8 +20,8 @@ const products = [
     name: "Amazon Echo Dot 3rd Generation",
     image: "/images/alexa.jpg",
     description: `Meet the echo dot - Our most popular smart speaker with a fabric
-    design. It is our most compact smart speaker that fits perfectly
-    into small spaces`,
+      design. It is our most compact smart speaker that fits perfectly
+      into small spaces`,
     brand: "Amazon",
     category: "Electronics",
     price: 29.99,
