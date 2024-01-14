@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: "1",
     name: "Airpods Wireless Bluetooth Headphones",
     image: "/images/airpods.jpg",
     description: `Bluestooth technology lets you connect it with compatible devies
@@ -14,9 +13,32 @@ const products = [
     rating: 4.5,
     numReviews: 12,
   },
-
   {
-    _id: "6",
+    name: "Sony Playstation 4 Pro White Verison",
+    image: "/images/playstation.jpg",
+    description: `The ultimate home entertainment center starts with Playstation.
+    Whether you are into gaming, HD movies, television, music.`,
+    brand: "Sony",
+    category: "Electronics",
+    price: 399.99,
+    countInStock: 11,
+    raintg: 5,
+    numReviews: 10,
+  },
+  {
+    name: "Logitech G-Series Gaming Mouse",
+    image: "/images/mouse.jpg",
+    description: `Get a better handle on your games with this Logitech LIGHTSYNC
+    gaming mouse. The six programmables buttons allow customization
+    for a smooth playing experience`,
+    brand: "Logitech",
+    category: "Electronics",
+    price: 49.99,
+    countInStock: 7,
+    rating: 3.5,
+    numReviews: 8,
+  },
+  {
     name: "Amazon Echo Dot 3rd Generation",
     image: "/images/alexa.jpg",
     description: `Meet the echo dot - Our most popular smart speaker with a fabric
